@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sensor Temperatura</string>
+    <string name="text_view_temperatura">Temperatura actual</string>
+    <string name="text_view_diagnostico">Diagnostico actual</string>
+    <string name="text_view_temperatura_c">0 °C</string>
+    <string name="text_view_diagnostico_tem">Esperando cambio de temperatura</string>
+    <string name="text_view_temperatura_baja">Hace mucho frio</string>
+    <string name="text_view_temperatura_normal">Que grandioso dia</string>
+    <string name="text_view_temperatura_alta">Hace mucho calor</string>
+</resources>
